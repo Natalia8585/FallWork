@@ -1,0 +1,34 @@
+html, body {
+    background-color: #fff;
+    color: #636b6f;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 200;
+    height: 100vh;
+    margin: 0;
+   
+}
+
+.content {
+    text-align: center;
+}
+
+.carousel-inner{
+    background-color:black;
+    margin-bottom: 30px;
+}
+.dropdown-menu{
+    color: #007bff!important;
+    background-color:#e3f2fd!important;
+}
+.dropdown-item{
+    color: #007bff!important;
+
+}
+.nav-link{
+    color: #007bff!important;
+    background-color: #e3f2fd;
+}
+.page-footer{
+    background-color:#b6c1ca;
+    
+}
